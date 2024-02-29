@@ -1,6 +1,6 @@
 ### Hi there I am Prativa Nepal👋
 
-- 🔭 I’m currently working with Festo GmbH located in Esslingen am Neckar,Germany
+- 🔭 I have worked with big automotive industries like Festo GmbH and Robert Bosch GmbH.
 - 🌱 I’m pursuing Master's in Applied Mathematics for Network and Data Sciences
 - 📫 How to reach me: pnepal@hs-mittweida.de
                     : https://www.linkedin.com/in/prativa-nepal/                  
